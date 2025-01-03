@@ -1,6 +1,6 @@
 # MolOrbDraw
 
-MolOrbDraw is a powerful visualization tool for molecular orbitals from Gaussian cube files. It provides an interactive 3D visualization interface with advanced molecular structure analysis capabilities.
+MolOrbDraw is a visualization tool for molecular orbitals from Gaussian cube files. It provides an interactive 3D visualization interface with advanced molecular structure analysis capabilities.
 
 ## Features
 
@@ -19,10 +19,6 @@ MolOrbDraw is a powerful visualization tool for molecular orbitals from Gaussian
   - Support for extended periodic table
   - Accurate bond length ranges
   - Multiple bond type visualization (single, double, triple, aromatic)
-- **User-Friendly Interface**:
-  - Interactive control panel
-  - Keyboard shortcuts for common operations
-  - Real-time molecular information display
 
 ## Installation
 
