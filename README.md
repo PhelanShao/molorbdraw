@@ -113,14 +113,3 @@ This project builds upon the work of various molecular visualization tools and c
 - VTK (Visualization Toolkit) for 3D rendering capabilities
 - The computational chemistry community for cube file format specifications
 
-## Citation
-
-If you use MolOrbDraw in your research, please cite:
-
-```bibtex
-@software{molorbdraw2023,
-  author = {MolOrbDraw Contributors},
-  title = {MolOrbDraw: A Molecular Orbital Visualization Tool},
-  year = {2023},
-  version = {0.1.0}
-}
